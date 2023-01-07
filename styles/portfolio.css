@@ -1,0 +1,239 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+/* header style */
+.header{
+    background-image: url(../images/banner/banner2.png);
+    
+    height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: right;
+  margin-bottom: 76px;
+  
+}
+
+
+.btn-primary {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    height: 44px;
+    background: #FD6E0A;
+    border-radius: 5px;
+    padding: 8px 5px;
+    border: 0;
+    margin-bottom: 100px;
+
+}
+.banner{
+    margin: 0 200px;
+    display: flex;
+    align-items: right;
+ writing-mode: horizontal-tb;
+ 
+}
+.banner-title{
+    font-weight: 700;
+    font-size: 30px;
+    margin-left: 550px;
+    margin-top: 190px;
+    margin-bottom: 15px;
+}
+.banner-description{
+    color: #757575;
+    font-weight: 400px;
+    margin-bottom: 30px;
+    margin-left: 550px;
+}
+/* styles mian top part */
+.about{
+    display: flex;
+}
+.image{
+    margin-left: 100px;
+}
+.about-description{
+    margin-top: 100px;
+    margin-left: 93px;
+    margin-right: 250px;
+}
+.section-title{
+    font-weight: 700;
+font-size: 40px;
+margin-bottom: 20px;
+}
+.section-description{
+    font-weight: 400;
+font-size: 16px;
+}
+
+/* bonus work styles */
+.bonus-work{
+    background-image: url(../images/banner/banner1.png);
+    
+    height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: right;
+  margin-bottom: 76px;
+  margin-top: 30px;
+}
+.banner2{
+    margin: 0 150px;
+    display: flex;
+    align-items: right;
+ writing-mode: horizontal-tb;
+ 
+}
+.banner2-title{
+    font-weight: 700;
+    font-size: 30px;
+    margin-left: 550px;
+    margin-top: 190px;
+    margin-bottom: 15px;
+}
+.banner2-description{
+    color: #757575;
+    font-weight: 400px;
+    margin-bottom: 30px;
+    margin-left: 550px;
+}
+
+
+
+/* planning styles */
+.planning-container{
+    display: flex;
+    justify-content: center;
+    gap: 0px;
+    
+}
+.planning-title{
+    text-align: center;
+    margin-bottom: 40px;
+    font-weight: 700;
+    font-size: 45px;
+    margin-top: 162px;
+}
+.plan{
+    
+   border-radius: 5px;
+   padding: 30px;
+   text-align: center;
+}
+.plan-title{
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+
+}
+.plan-description{
+    color: #757575;
+}
+/* bonus section2 styles */
+
+.bonus{
+    background-image:linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%), url(../images/watch.png);
+    margin-top: 120px;
+    
+ 
+  background-repeat: no-repeat;
+  width: 750px;
+  height: 150px;
+  margin-left: 300px;
+  text-align: left;
+  margin-bottom: 100px;
+}
+.bonus-content{
+    color: #FFFFFF;
+    margin-left: 30px;
+    
+}
+
+
+
+/* .bonus-content .bonus-title{ 
+    color: #FFFFFF;
+    
+    font-weight: 800;
+font-size: 20px;
+margin: 0 50px;
+    
+
+}*/
+.bonus-button{
+    color: #cb550c;
+    font-weight: 700;
+    font-size: 15px;
+    height: 44px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    padding: 8px 5px;
+    border: 0;
+    margin-top: 50px;
+
+}
+/* footer styles */
+.footer{
+    background: #151414;
+    height: 400px;
+    width: 1350px;
+    
+}
+.footer-content{
+    color: #FFFFFF;
+    display: flex;
+
+    
+}
+.footer .footer-content{
+    margin-top: 50px;
+    margin-left: 80px;
+}
+.footer-title{
+    margin-bottom: 10px;
+}
+.footer-left{
+    margin-top: 100px;
+    margin-left: 93px;
+    margin-right: 250px;
+    
+    align-items: left;
+}
+.footer-description p{
+    font-weight: 200;
+    font-size: 12px;
+}
+.footer-right{
+    margin-top: 100px;
+    margin-left: 93px;
+    margin-right: 250px;
+    
+    align-items: right;
+}
+
+.icon{
+    margin-left: 170px;
+}
+
+
+.subscribe-button{
+    color: #cb550c;
+    font-weight: 700;
+    font-size: 20px;
+    height: 44px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    padding: 8px 5px;
+    border: 0;
+    margin-top: 10px;
+
+}
+span{
+    font-size: 15px;
+}
